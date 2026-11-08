@@ -1,7 +1,6 @@
 <div align="center">
 
   <h1>📱 Download Now</h1>
-  
   <br>
 
   <a href="https://github.com/goodmastergo/My-App/releases/download/app/DPBossKing.apk">
